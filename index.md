@@ -12,3 +12,9 @@ Und ich finde diesen film total doof!, Ich schreibe das hier nur um die Prüfung
 * Hat sich überwunden und die Hübscheste im Auenland erobert
 * Hat 13 Kinder
 * Wurde Bürgermeister vom Auenland
+
+
+##As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
+
